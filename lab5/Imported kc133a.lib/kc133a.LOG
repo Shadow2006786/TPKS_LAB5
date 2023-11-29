@@ -1,0 +1,42 @@
+PCAD Importer Log
+Project : kc133a.LibPkg
+
+Section : C:\Users\shadow\Downloads\libs lab3\kc133a.lib
+    Section : PCB Library - kc133a.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 62
+            Warning - 1 : Skipping Token defaultPinDes On Line 63
+            Warning - 1 : Skipping Token defaultPinDes On Line 64
+            Warning - 1 : Skipping Token defaultPinDes On Line 65
+            Warning - 1 : Skipping Token defaultPinDes On Line 66
+            Warning - 1 : Skipping Token defaultPinDes On Line 67
+            Warning - 1 : Skipping Token defaultPinDes On Line 68
+            Warning - 1 : Skipping Token KC133A On Line 80
+            Warning - 1 : Skipping Token attachedSymbol On Line 159
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [KC133A][Primary] associated with PCAD Component [KC133A] has been renamed to PCB FootPrint [KC133A_KC133A(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - kc133a.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 61
+            Warning - 1 : Skipping Token layerContents On Line 70
+            Warning - 1 : Skipping Token defaultPinDes On Line 88
+            Warning - 1 : Skipping Token defaultPinDes On Line 95
+            Warning - 1 : Skipping Token defaultPinDes On Line 102
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 116
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+        EndSection
+
+        Section : Generating SCH Library - kc133a.SchLib
+            Warning - 0 : PCAD Pattern Graphics [KC133A][Primary] associated with PCAD Component [KC133A] has been renamed to PCB FootPrint [KC133A_KC133A(Primary)].
+        EndSection
+    EndSection
+EndSection

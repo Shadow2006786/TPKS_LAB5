@@ -1,0 +1,63 @@
+PCAD Importer Log
+Project : LAB3all.PrjPcb
+
+Section : C:\Users\shadow\Downloads\libs lab3\LAB3all.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 125
+        Warning - 1 : Skipping Token defaultPinDes On Line 133
+        Warning - 1 : Skipping Token defaultPinDes On Line 156
+        Warning - 1 : Skipping Token defaultPinDes On Line 164
+        Warning - 1 : Skipping Token defaultPinDes On Line 187
+        Warning - 1 : Skipping Token defaultPinDes On Line 195
+        Warning - 1 : Skipping Token defaultPinDes On Line 217
+        Warning - 1 : Skipping Token defaultPinDes On Line 225
+        Warning - 1 : Skipping Token defaultPinDes On Line 233
+        Warning - 1 : Skipping Token defaultPinDes On Line 254
+        Warning - 1 : Skipping Token defaultPinDes On Line 262
+        Warning - 1 : Skipping Token defaultPinDes On Line 303
+        Warning - 1 : Skipping Token defaultPinDes On Line 311
+        Warning - 1 : Skipping Token defaultPinDes On Line 357
+        Warning - 1 : Skipping Token defaultPinDes On Line 365
+        Warning - 1 : Skipping Token defaultPinDes On Line 373
+        Warning - 1 : Skipping Token defaultPinDes On Line 441
+        Warning - 1 : Skipping Token defaultPinDes On Line 448
+        Warning - 1 : Skipping Token defaultPinDes On Line 455
+        Warning - 1 : Skipping Token defaultPinDes On Line 462
+        Warning - 1 : Skipping Token defaultPinDes On Line 469
+        Warning - 1 : Skipping Token defaultPinDes On Line 476
+        Warning - 1 : Skipping Token defaultPinDes On Line 483
+        Warning - 1 : Skipping Token gridDfns On Line 1002
+        Warning - 1 : Skipping Token refPointSize On Line 1027
+        Warning - 1 : Skipping Token infoPointSize On Line 1028
+        Warning - 1 : Skipping Token junctionSize On Line 1029
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1030
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1031
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1032
+        Warning - 1 : Skipping Token PrintRegion On Line 1254
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1258
+        Warning - 1 : Skipping Token ecoState On Line 1273
+        Warning - 1 : Skipping Token currentTextStyle On Line 1274
+        Warning - 1 : Skipping Token reportSettings On Line 1277
+    EndSection
+
+    Section : Generating SCH Library - LAB3all.SchLib
+        Warning : Create component variant [C2-33H-0.125W_OLD_UGO_VARIANT_1] for component with original name [C2-33H-0.125W_OLD_UGO]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : Add Power Object for Pin Name [GND] at location [4089.756mil : 4432.275mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4677.156mil : 5669.28mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6102.35mil : 2405.507mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7688.961mil : 3295.269mil]
+        Warning : Add Power Object for Pin Name [GND] at location [3354.324mil : 2334.641mil]
+        Warning : Add Power Object for Pin Name [GND] at location [5622.036mil : 5515.737mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6527.546mil : 4555.109mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6824.015mil : 5392.903mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7763.764mil : 1527.556mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2598.42mil : 2984.246mil]
+        Warning : Add Power Object for Pin Name [+5B] at location [8444.865mil : 6232.271mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

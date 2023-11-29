@@ -1,0 +1,71 @@
+PCAD Importer Log
+Project : Lab_4.PrjPcb
+
+Section : C:\Users\shadow\Downloads\libs lab3\Lab_4.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 219
+        Warning - 1 : Skipping Token defaultPinDes On Line 220
+        Warning - 1 : Skipping Token defaultPinDes On Line 267
+        Warning - 1 : Skipping Token defaultPinDes On Line 268
+        Warning - 1 : Skipping Token defaultPinDes On Line 269
+        Warning - 1 : Skipping Token defaultPinDes On Line 294
+        Warning - 1 : Skipping Token defaultPinDes On Line 295
+        Warning - 1 : Skipping Token defaultPinDes On Line 296
+        Warning - 1 : Skipping Token defaultPinDes On Line 328
+        Warning - 1 : Skipping Token defaultPinDes On Line 329
+        Warning - 1 : Skipping Token defaultPinDes On Line 375
+        Warning - 1 : Skipping Token defaultPinDes On Line 376
+        Warning - 1 : Skipping Token defaultPinDes On Line 419
+        Warning - 1 : Skipping Token defaultPinDes On Line 420
+        Warning - 1 : Skipping Token defaultPinDes On Line 451
+        Warning - 1 : Skipping Token defaultPinDes On Line 452
+        Warning - 1 : Skipping Token defaultPinDes On Line 511
+        Warning - 1 : Skipping Token defaultPinDes On Line 512
+        Warning - 1 : Skipping Token defaultPinDes On Line 513
+        Warning - 1 : Skipping Token defaultPinDes On Line 514
+        Warning - 1 : Skipping Token defaultPinDes On Line 515
+        Warning - 1 : Skipping Token defaultPinDes On Line 516
+        Warning - 1 : Skipping Token defaultPinDes On Line 517
+        Warning - 1 : Skipping Token defaultPinDes On Line 586
+        Warning - 1 : Skipping Token defaultPinDes On Line 587
+        Warning - 1 : Skipping Token defaultPinDes On Line 588
+        Warning - 1 : Skipping Token defaultPinDes On Line 589
+        Warning - 1 : Skipping Token defaultPinDes On Line 590
+        Warning - 1 : Skipping Token defaultPinDes On Line 591
+        Warning - 1 : Skipping Token defaultPinDes On Line 592
+        Warning - 1 : Skipping Token attachedSymbol On Line 617
+        Warning - 1 : Skipping Token attachedSymbol On Line 638
+        Warning - 1 : Skipping Token attachedSymbol On Line 660
+        Warning - 1 : Skipping Token attachedSymbol On Line 685
+        Warning - 1 : Skipping Token attachedSymbol On Line 710
+        Warning - 1 : Skipping Token attachedSymbol On Line 736
+        Warning - 1 : Skipping Token attachedSymbol On Line 766
+        Warning - 1 : Skipping Token attachedSymbol On Line 792
+        Warning - 1 : Skipping Token attachedSymbol On Line 812
+        Warning - 1 : Skipping Token refPointSize On Line 1055
+        Warning - 1 : Skipping Token infoPointSize On Line 1056
+        Warning - 1 : Skipping Token gluePointSize On Line 1057
+        Warning - 1 : Skipping Token pickPointSize On Line 1058
+        Warning - 1 : Skipping Token testPointSize On Line 1059
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1060
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1061
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 1062
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 1063
+        Warning - 1 : Skipping Token testPointSizePrint On Line 1064
+        Warning - 1 : Skipping Token solderFlowDirection On Line 1065
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 1066
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 1067
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 1068
+        Warning - 1 : Skipping Token drillSymSettings On Line 1412
+        Warning - 1 : Skipping Token gerberSettings On Line 1414
+        Warning - 1 : Skipping Token ncDrillSettings On Line 1428
+        Warning - 1 : Skipping Token programState On Line 1437
+        Warning - 1 : Skipping Token displayDrawOrder On Line 1478
+        Warning - 1 : Skipping Token reportSettings On Line 1701
+        Warning - 1 : Skipping Token odbSettings On Line 2398
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [KC133A][Primary] associated with PCAD Component [KC133A] has been renamed to PCB FootPrint [KC133A_KC133A(Primary)].
+    EndSection
+EndSection
